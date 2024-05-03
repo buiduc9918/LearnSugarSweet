@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../AnimalWorld/AnimalWorld"
+		},
+		{
+			"path": "../AnimalWorld"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "AnimalWorld.sln"
+	}
+}
